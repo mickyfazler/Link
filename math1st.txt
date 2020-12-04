@@ -1,2 +1,4 @@
-Hsc math first paper chapter 7  proof of ab
+************************ID:1************************
+Hsc math first paper chapter 7  proof of (AB^2=BC^2+AC^2^-2BC.CD)
 https://www.teachoo.com/6653/2179/Ex-6.6--4-(Optional)/category/Ex-6.6-(Optional)/
+************************ID:2************************
