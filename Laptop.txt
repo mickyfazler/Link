@@ -1,10 +1,10 @@
-AMD Ryzen 5 5600X Processor						33000  		https://www.startech.com.bd/amd-ryzen-5-5600x-processor
+AMD Ryzen 5 5600X Processor						                    33000  		https://www.startech.com.bd/amd-ryzen-5-5600x-processor
 Gigabyte GeForce RTX 3070 Gaming OC 8GB Graphics Card			    620000		https://www.startech.com.bd/gigabyte-rtx3070-gaming-oc-graphics-card
-MSI MAG B550M Mortar AMD Micro ATX Gaming Motherboard 			  16199		  https://www.startech.com.bd/msi-mag-b550m-mortar-motherboard
-Gigabyte P550B 550W 80 Plus Bronze Certified Power Supply  		5,000৳		https://www.startech.com.bd/gigabyte-p550b-power-supply
+MSI MAG B550M Mortar AMD Micro ATX Gaming Motherboard 			    16199		https://www.startech.com.bd/msi-mag-b550m-mortar-motherboard
+Gigabyte P550B 550W 80 Plus Bronze Certified Power Supply  		    5,000৳		https://www.startech.com.bd/gigabyte-p550b-power-supply
 ADATA SU650 120GB M.2 2280 SATA 3D NAND Internal SSD			    2,480৳   	https://www.startech.com.bd/adata-su650-120-gb-m-2-ssd
-Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM			      3,950৳		https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz
-KWG VELA M3 Mid Tower PC Case						                      2,900৳		https://www.startech.com.bd/kwg-vela-m3-pc-case
+Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM			        3,950৳		https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz
+KWG VELA M3 Mid Tower PC Case						                2,900৳		https://www.startech.com.bd/kwg-vela-m3-pc-case
 
 (33000 + 62000 + 16199 + 5000 + 2480 + 3950 + 2900)125529
 
